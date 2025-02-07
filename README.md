@@ -1,6 +1,6 @@
 # Machine-Learning
 ML Projects
 
-@ Breast Cancer Classification
+@ Breast Cancer Classification _ Logistic Regression Model
 
-@ Prediction of Diabetes via Support Vector Machine model
+@ Prediction of Diabetes _ Support Vector Machine Model
