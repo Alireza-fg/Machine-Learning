@@ -1,5 +1,5 @@
 # Machine-Learning
-ML Projects 
+MLProjects 
 
 @ Breast Cancer Classification _ Logistic Regression Model
 
